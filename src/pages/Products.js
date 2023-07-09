@@ -48,7 +48,7 @@ export const Products = () =>{
 
           </div> 
           
-                <Footer></Footer>
+                {/* <Footer></Footer> */}
         </div>
     )
 }
